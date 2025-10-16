@@ -1,8 +1,5 @@
 <p align="center"><img src="https://socialify.git.ci/FarrelPandhita/git-viewer/image?custom_description=A+high-performance+asynchronous+web+visitor+tool+built+with+Playwright+for+testing%2C+monitoring%2C+and+analyzing+web+page+performance+under+load.&amp;description=1&amp;font=JetBrains+Mono&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Floating+Cogs&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
-# git-viewer
-
-A high-performance asynchronous web visitor tool built with Playwright for testing, monitoring, and analyzing web page performance under load.
 
 ## 📋 Features
 
